@@ -2,9 +2,8 @@
 
 **Business Analyst & Operations Manager**
 
-I build metric-driven processes, financial models, and management systems.  
-Work at the intersection of business, data, and engineering.  
-Build internal tools and automation using **Python, SQL, APIs, and AI**.
+I build metric-driven processes, financial models, and management systems
+Work at the intersection of business, data, and engineering
 
 ---
 

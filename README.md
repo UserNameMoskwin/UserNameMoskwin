@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hi, I’m Nikita
 
-<!--
-**UserNameMoskwin/UserNameMoskwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Analyst & Operations Manager**
 
-Here are some ideas to get you started:
+I build metric-driven processes, financial models, and management systems.  
+Work at the intersection of business, data, and engineering.  
+Build internal tools and automation using **Python, SQL, APIs, and AI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Pet Projects
+
+- 🤖 **Task Remindeer**  
+  Telegram bot for daily task reporting from Google Sheets  
+  👉 https://github.com/UserNameMoskwin/task-remindeer-public
+
+- 🧠 **Personal RAT**  
+  Telegram bot for automated chat analysis with task extraction and important mentions using AI  
+  👉 https://github.com/UserNameMoskwin/personal-rat-public
+
+- 🏖 **Vacations Bot**  
+  Telegram bot for tracking employee absences and sending scheduled reports  
+  👉 https://github.com/UserNameMoskwin/vacations-bot-public
+
+---
+
+## 🔗 Links
+
+- 💼 **LinkedIn** — https://www.linkedin.com/in/moskwin  
+- 🐙 **GitHub** — https://github.com/UserNameMoskwin  
+- ✈️ **Telegram** — https://t.me/moskwin  
+- 📘 **Facebook** — https://www.facebook.com/moskwinn  
+- 📧 **Email** — mailto:gmnicita@gmail.com

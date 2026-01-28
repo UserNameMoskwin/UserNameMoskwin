@@ -7,19 +7,28 @@ Work at the intersection of business, data, and engineering
 
 ---
 
-## 🛠 Pet Projects
+## 🛠 Projects
 
-- 🤖 **Task Remindeer**  
-  Telegram bot for daily task reporting from Google Sheets  
-  👉 https://github.com/UserNameMoskwin/task-remindeer-public
+### 🧠 Personal RAT Bot
+Telegram bot for automated analysis of work chats.  
+Extracts tasks and priority mentions using AI and notifies the user every **15, 30, or 60 minutes** if new important mentions appear.  
+Designed to **aggregate and reduce distracting notifications**, helping users stay focused while not missing critical messages.  
+👉 https://github.com/UserNameMoskwin/personal-rat-public
 
-- 🧠 **Personal RAT**  
-  Telegram bot for automated chat analysis with task extraction and important mentions using AI  
-  👉 https://github.com/UserNameMoskwin/personal-rat-public
+---
 
-- 🏖 **Vacations Bot**  
-  Telegram bot for tracking employee absences and sending scheduled reports  
-  👉 https://github.com/UserNameMoskwin/vacations-bot-public
+### 🤖 Task Remindeer
+Telegram bot for daily task reporting based on Google Sheets.  
+Built to manage multiple business areas through a **transparent task tracking system**, with regular reminders about task status, ownership, and deadlines.  
+Helps turn task lists into a **clear operational control and reporting workflow**.  
+👉 https://github.com/UserNameMoskwin/task-remindeer-public
+
+---
+
+### 🏖 Vacations Bot
+Telegram bot for tracking employee absences and sending scheduled reports to a team chat.  
+Built to establish a **transparent and shared absence notification system**, keeping all team members informed about vacations, sick leave, and other unavailability.  
+👉 https://github.com/UserNameMoskwin/vacations-bot-public
 
 ---
 

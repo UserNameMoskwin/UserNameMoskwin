@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m Nikita
 
-**Business Analyst & Operations Manager**
-
+**Business Operations Manager**
 I build metric-driven processes, financial models, and management systems
 Work at the intersection of business, data, and engineering
 
